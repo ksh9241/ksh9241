@@ -3,9 +3,9 @@
   <a href="mailto:zerovirus96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ksh9241@khu.ac.kr-FF7800?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
+<!-- 
 [미니홈피_예정](https://ksh9241.github.io/ksh9241/)
-
+-->
 
 <p>
   👋&nbsp; 안녕하세요!
